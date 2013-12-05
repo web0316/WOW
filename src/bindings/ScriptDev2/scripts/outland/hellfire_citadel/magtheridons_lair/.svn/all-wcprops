@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/scriptdev2/!svn/ver/1383/scripts/outland/hellfire_citadel/magtheridons_lair
+END
+def_magtheridons_lair.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/scriptdev2/!svn/ver/1350/scripts/outland/hellfire_citadel/magtheridons_lair/def_magtheridons_lair.h
+END
+instance_magtheridons_lair.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/scriptdev2/!svn/ver/1350/scripts/outland/hellfire_citadel/magtheridons_lair/instance_magtheridons_lair.cpp
+END
+boss_magtheridon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/scriptdev2/!svn/ver/1383/scripts/outland/hellfire_citadel/magtheridons_lair/boss_magtheridon.cpp
+END

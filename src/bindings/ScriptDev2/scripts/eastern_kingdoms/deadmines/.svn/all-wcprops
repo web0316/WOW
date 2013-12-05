@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/scriptdev2/!svn/ver/1303/scripts/eastern_kingdoms/deadmines
+END
+deadmines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/scriptdev2/!svn/ver/1303/scripts/eastern_kingdoms/deadmines/deadmines.cpp
+END
+def_deadmines.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/scriptdev2/!svn/ver/1303/scripts/eastern_kingdoms/deadmines/def_deadmines.h
+END
+instance_deadmines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/scriptdev2/!svn/ver/1303/scripts/eastern_kingdoms/deadmines/instance_deadmines.cpp
+END
